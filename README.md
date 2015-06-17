@@ -39,3 +39,7 @@ http://www.andygup.net/how-to-upgrade-your-air-sdk-in-flashbuilder-4-6/
 **Important: you should download the original AIR SDK without the new compiler, or you will face a bunch of weird messages during project compilation.
 You can find it here: http://airdownload.adobe.com/air/win/download/latest/AdobeAIRSDK.zip
 
+
+
+**Para poder compilar aplicacion es necesario contar con el siguiente SDK 
+http://flex.apache.org/installer.html
