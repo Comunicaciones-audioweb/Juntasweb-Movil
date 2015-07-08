@@ -43,3 +43,7 @@ You can find it here: http://airdownload.adobe.com/air/win/download/latest/Adobe
 
 **Para poder compilar aplicacion es necesario contar con el siguiente SDK 
 http://flex.apache.org/installer.html
+
+**URL entrar a test
+
+http://66.226.72.209/demo/mobile.jsp
